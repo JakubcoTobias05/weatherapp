@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Světlé pozadí -->
+  <circle cx="32" cy="32" r="31" fill="#E0F7FA"/>
+  
+  <!-- Mrak -->
+  <path d="M48 30.5C48 36.149 43.5228 40.5 38.5 40.5H23.5C18.4772 40.5 14 36.149 14 30.5C14 24.851 18.4772 20.5 23.5 20.5H38.5C43.5228 20.5 48 24.851 48 30.5Z" fill="#90CAF9"/>
+  
+  <!-- Slunce -->
+  <circle cx="26" cy="28" r="3" fill="#fff"/>
+  <circle cx="34" cy="28" r="3" fill="#fff"/>
+  <path d="M29 35H35V38H29V35Z" fill="#fff"/>
+</svg>
