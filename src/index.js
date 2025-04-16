@@ -4,7 +4,7 @@ import App from './App';
 import './index.css';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'http://localhost/backend/api/';
+axios.defaults.baseURL = 'http://portfolio.xf.cz:8080/tasks/IoT_WeatherApp/backend/api/';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
